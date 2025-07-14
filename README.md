@@ -42,12 +42,12 @@ I'm a passionate backend developer with a **Java core**, skilled in a wide array
 ## 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=osdeving&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osdeving&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osdeving&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
@@ -56,8 +56,8 @@ I'm a passionate backend developer with a **Java core**, skilled in a wide array
 
 Here are a few standout projects that showcase my skills:
 
-- **[Project Name](https://github.com/seuusuario/project-link)**: Brief description of the project, highlighting technologies used and purpose.
-- **[Another Project](https://github.com/seuusuario/another-project-link)**: A brief explanation of what this project accomplishes.
+- **[Project Name](https://github.com/osdeving/project-link)**: Brief description of the project, highlighting technologies used and purpose.
+- **[Another Project](https://github.com/osdeving/another-project-link)**: A brief explanation of what this project accomplishes.
 
 ---
 
@@ -73,4 +73,4 @@ Here are a few standout projects that showcase my skills:
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/seuusuario) or reach out via email!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/osdeving) or reach out via email!
